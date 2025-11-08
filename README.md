@@ -7,4 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-Tech99&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### Developer Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&font=IBM%20Plex%20Mono)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&font=Roboto)
