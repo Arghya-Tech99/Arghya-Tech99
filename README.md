@@ -10,4 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-Tech99&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### Developer Quote of the Day
-![]([https://github-quotes.vercel.app/api](https://your-project.vercel.app/api?theme=radical&font=jetbrains))
+![]([https://github-quotes.vercel.app/api?theme=radical&font=jetbrains])
