@@ -11,5 +11,7 @@
 
 ### Developer Quote of the Day
 <div align = "center">
+  
 ![](https://github-quotes.vercel.app/api?theme=radical&font=jetbrains)
+
 </div>
