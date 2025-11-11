@@ -1,5 +1,6 @@
 # Arghya-Tech99's Developer Profile
 > M.Tech student in Automation and Robotics with proficiency in **Artificial Intelligence**, **Deep Learning**, **Image processing**, **Computer Vision** and **Control Systems**. Actively seeking full-time roles focused on the areas of **Control Systems**, **Artificial intelligence**, **Machine Learning**, **Computer Vision** and **Reinforcement Learning** applications.
+---
 
 ### Professional Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arghyasinha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinhaarghya03@gmail.com) 
