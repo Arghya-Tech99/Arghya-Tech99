@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-Tech99&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=100)
 
 ### Developer Accolades
-![](https://github-profile-trophy.vercel.app/?username=Arghya-Tech99&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4&columns=pulls,commits,repos)
+![](https://github-profile-trophy.vercel.app/?username=Arghya-Tech99&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4&hide_trophies=stars,followers,issues,reviews,experience&dummy=3)
 
 ### Developer Quote of the Day
 <div align = "center">
