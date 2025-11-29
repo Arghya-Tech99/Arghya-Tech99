@@ -9,10 +9,10 @@
 ![C](https://skillicons.dev/icons?i=c) &nbsp; ![C++](https://skillicons.dev/icons?i=cpp) &nbsp; ![Python](https://skillicons.dev/icons?i=python) &nbsp; ![Java](https://skillicons.dev/icons?i=java) &nbsp; ![HTML5](https://skillicons.dev/icons?i=html) &nbsp; ![CSS3](https://skillicons.dev/icons?i=css) &nbsp; ![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![LaTeX](https://skillicons.dev/icons?i=latex) &nbsp; ![R](https://skillicons.dev/icons?i=r) &nbsp; ![Git](https://skillicons.dev/icons?i=git) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![Markdown](https://skillicons.dev/icons?i=md) &nbsp; ![MATLAB](https://skillicons.dev/icons?i=matlab) &nbsp; ![PyCharm](https://skillicons.dev/icons?i=pycharm) &nbsp; ![NodeJS](https://skillicons.dev/icons?i=nodejs) &nbsp; ![SkLearn](https://skillicons.dev/icons?i=sklearn) &nbsp; ![VSCode](https://skillicons.dev/icons?i=vscode) &nbsp; ![Windows](https://skillicons.dev/icons?i=windows) &nbsp; ![Vercel](https://skillicons.dev/icons?i=vercel) &nbsp; ![NumPy](https://github.com/Arghya-Tech99/Arghya-Tech99/blob/main/Numpy.svg) &nbsp; ![Pandas](https://github.com/Arghya-Tech99/Arghya-Tech99/blob/main/Pandas.svg) &nbsp; ![Canva](https://github.com/Arghya-Tech99/Arghya-Tech99/blob/main/Canva.svg) &nbsp; ![Google Colab](https://github.com/Arghya-Tech99/Arghya-Tech99/blob/main/icons8-google-colab.svg)
 
 ### Codebase Language Analysis
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-Tech99&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=100)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arghya-Tech99&theme=github_dark)
 
 ### Developer Accolades
-![](https://github-profile-trophy.vercel.app/?username=Arghya-Tech99&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4&hide_trophies=stars,followers,issues,reviews,experience&dummy=3)
+![](https://github-profile-trophy.vercel.app/?username=Arghya-Tech99&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4&title=PullRequest,Commits,Repositories)
 
 ### Developer Quote of the Day
 <div align = "center">
