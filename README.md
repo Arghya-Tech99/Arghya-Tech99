@@ -11,9 +11,6 @@
 ### Codebase Language Analysis
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arghya-Tech99&theme=github_dark)
 
-### Developer Accolades
-![](https://github-profile-trophy.vercel.app/?username=Arghya-Tech99&theme=default_repocard&no-frame=true&no-bg=false&margin-w=4&title=PullRequest,Commits,Repositories)
-
 ### Developer Quote of the Day
 <div align = "center">
   
