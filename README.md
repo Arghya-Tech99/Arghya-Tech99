@@ -17,9 +17,6 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white)
 
 
-### Codebase Language Analysis
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arghya-Tech99&theme=github_dark)
-
 ### Developer Quote of the Day
 <div align = "center">
   
